@@ -1,5 +1,10 @@
 .App {
+  background: url("img/uh-60.jpg");
+  background-size: cover;
   text-align: center;
+  display: flex;
+  overflow-x: auto;
+  overflow-y: hidden;
 }
 
 .App-logo {
